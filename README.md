@@ -2,7 +2,7 @@
 
 - ## External Links
 
-  - https://help.github.com/en
+  - [GitHub documentation](https://help.github.com/en)
 
 - ## Images (External)
 

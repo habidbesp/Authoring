@@ -30,10 +30,10 @@
 
 - ## Adding a Table
 
-| Task                                 |          Done           |
-| :----------------------------------- | :---------------------: |
-| External Links                       | <input type="checkbox"> |
-| Images (external)                    | <input type="checkbox"> |
-| Emojins                              | <input type="checkbox"> |
-| Link to images folder                | <input type="checkbox"> |
-| Add an image from your images folder | <input type="checkbox"> |
+| Task                                 | Done |
+| :----------------------------------- | :--: |
+| External Links                       |  ✅  |
+| Images (external)                    |  ✅  |
+| Emojins                              |  ✅  |
+| Link to images folder                |  ✅  |
+| Add an image from your images folder |  ✅  |

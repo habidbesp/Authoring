@@ -37,3 +37,12 @@
 | Emojins                              |  ✅  |
 | Link to images folder                |  ✅  |
 | Add an image from your images folder |  ✅  |
+
+- ## Checkbox
+
+- [x] External Links 
+- [x] Images (external) 
+- [x] Emojins
+- [x] Link to images folder
+- [x] Add an image from your images folder
+

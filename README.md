@@ -30,10 +30,10 @@
 
   ## Tables and checkboxes
 
-| Task                                 |                    Done                    |
-| :----------------------------------- | :----------------------------------------: |
-| External Links                       | <input type="checkbox" disabled checked /> |
-| Images (external)                    | <input type="checkbox" disabled checked /> |
-| Emojins                              | <input type="checkbox" disabled checked /> |
-| Link to images folder                | <input type="checkbox" disabled checked /> |
-| Add an image from your images folder | <input type="checkbox" disabled checked /> |
+| Task                                 | Done  |
+| :----------------------------------- | :---: |
+| External Links                       | - [x] |
+| Images (external)                    | - [x] |
+| Emojins                              | - [x] |
+| Link to images folder                | - [x] |
+| Add an image from your images folder | - [x] |

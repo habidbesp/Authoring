@@ -30,10 +30,10 @@
 
 - ## Adding a Table
 
-| Task                                 | Done |
-| :----------------------------------- | :--: |
-| External Links                       |  ✅  |
-| Images (external)                    |  ✅  |
-| Emojins                              |  ✅  |
-| Link to images folder                |  ✅  |
-| Add an image from your images folder |  ✅  |
+| Task                                 | Done  |
+| :----------------------------------- | :---: |
+| External Links                       | - [x] |
+| Images (external)                    | - [x] |
+| Emojins                              | - [x] |
+| Link to images folder                | - [x] |
+| Add an image from your images folder | - [x] |

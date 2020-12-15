@@ -26,3 +26,11 @@
 
 - ## More Emojis
   - 🐼 🐻 👍
+
+| Task                                 |                    Done                    |
+| :----------------------------------- | :----------------------------------------: |
+| External Links                       | <input type="checkbox" disabled checked /> |
+| Images (external)                    | <input type="checkbox" disabled checked /> |
+| Emojins                              | <input type="checkbox" disabled checked /> |
+| Link to images folder                | <input type="checkbox" disabled checked /> |
+| Add an image from your images folder | <input type="checkbox" disabled checked /> |
